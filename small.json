@@ -67,7 +67,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"floor0.json#startSmall"
+                 "value":"haus35.json#startSmall"
                 }],
          "type":"tilelayer",
          "visible":true,

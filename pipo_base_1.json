@@ -1,0 +1,14 @@
+{ "columns":8,
+ "image":"tiles_png\/tilesheets\/pipo_base_1.png",
+ "imageheight":1152,
+ "imagewidth":256,
+ "margin":0,
+ "name":"pipo_base_1",
+ "spacing":0,
+ "tilecount":288,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

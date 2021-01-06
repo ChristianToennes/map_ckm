@@ -1,0 +1,22 @@
+{ "columns":16,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"tiles_png\/tilesheets\/cert.png",
+ "imageheight":2048,
+ "imagewidth":512,
+ "margin":0,
+ "name":"cert",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
