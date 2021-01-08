@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"tiles_png\/tilesheets\/building_inner-tileg.png",
+ "imageheight":480,
+ "imagewidth":508,
+ "margin":0,
+ "name":"building_inner-tileg",
+ "spacing":0,
+ "tilecount":225,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}

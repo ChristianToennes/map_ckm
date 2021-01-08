@@ -1,4 +1,12 @@
 { "columns":16,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
  "image":"tiles_png\/tilesheets\/misc.png",
  "imageheight":2048,
  "imagewidth":512,
@@ -8,6 +16,67 @@
  "tilecount":1024,
  "tiledversion":"1.4.3",
  "tileheight":32,
+ "tiles":[
+        {
+         "animation":[
+                {
+                 "duration":250,
+                 "tileid":57
+                }, 
+                {
+                 "duration":250,
+                 "tileid":58
+                }, 
+                {
+                 "duration":250,
+                 "tileid":59
+                }, 
+                {
+                 "duration":250,
+                 "tileid":58
+                }],
+         "id":73
+        }, 
+        {
+         "animation":[
+                {
+                 "duration":250,
+                 "tileid":162
+                }, 
+                {
+                 "duration":250,
+                 "tileid":163
+                }, 
+                {
+                 "duration":250,
+                 "tileid":164
+                }, 
+                {
+                 "duration":250,
+                 "tileid":161
+                }, 
+                {
+                 "duration":250,
+                 "tileid":160
+                }, 
+                {
+                 "duration":250,
+                 "tileid":125
+                }, 
+                {
+                 "duration":250,
+                 "tileid":127
+                }, 
+                {
+                 "duration":250,
+                 "tileid":121
+                }, 
+                {
+                 "duration":250,
+                 "tileid":124
+                }],
+         "id":137
+        }],
  "tilewidth":32,
  "type":"tileset",
  "version":1.4

@@ -1,0 +1,14 @@
+{ "columns":9,
+ "image":"tiles_png\/tilesheets\/c2b4compiuter.png",
+ "imageheight":326,
+ "imagewidth":326,
+ "margin":10,
+ "name":"c2b4compiuter",
+ "spacing":0,
+ "tilecount":81,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
