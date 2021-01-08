@@ -20,6 +20,26 @@
         {
          "animation":[
                 {
+                 "duration":300,
+                 "tileid":57
+                }, 
+                {
+                 "duration":300,
+                 "tileid":58
+                }, 
+                {
+                 "duration":300,
+                 "tileid":59
+                }, 
+                {
+                 "duration":300,
+                 "tileid":58
+                }],
+         "id":9
+        }, 
+        {
+         "animation":[
+                {
                  "duration":250,
                  "tileid":57
                 }, 
